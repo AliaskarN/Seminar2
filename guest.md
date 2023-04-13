@@ -4,6 +4,7 @@
 
 1. Использовать Markdown
 2. Дополнить картинками и ссылками
+![Markdown code](https://geekytheory.com/content/images/2014/03/markdown_inte-1024x630.png)
 3. Добавить четыре ветки
 4. Создать конфликт при слияние merge
 
