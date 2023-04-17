@@ -32,4 +32,4 @@ _**Вводная информация для начало работ**_
 [Info](https://ru.wikipedia.org/wiki/Markdown)
 
 * *Картинка для кода*
-
+![Mark](imag.jpeg)
